@@ -1,3 +1,5 @@
+An automated car with lidar sensor simulation
+
 to run CoppeliaSim (emulator) :
     ./miscelianous/CoppeliaSim_Edu_V4_0_0_Ubuntu18_04/coppeliaSim.sh
 
