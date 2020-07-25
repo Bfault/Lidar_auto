@@ -1,6 +1,6 @@
 #!/bin/bash
 
-STUDENT_NAME="./ai"
+STUDENT_NAME=$1
 BUFF_NAME="./n4s_buffer"
 N4S_NAME="./n4s"
 
