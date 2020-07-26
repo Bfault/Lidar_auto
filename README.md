@@ -1,8 +1,13 @@
 An automated car with lidar sensor simulation
 
 to run CoppeliaSim (emulator) :
-    ./miscelianous/CoppeliaSim_Edu_V4_0_0_Ubuntu18_04/coppeliaSim.sh
+    ./run_coppelia.sh
 
-now you can run project with ./miscelianous/pipe.sh
+now you can run project with :
+    ./run_ia python
+or
+    ./run_ia c
 
-pipe.sh need to be placed with the following binary (ai, n4s, n4s_buffer)
+In C I use several curves to choose the speed or direction of the car.
+
+In python I use Q-learning a technique in reinforcing learning (Not done Yet, I am working on it)
