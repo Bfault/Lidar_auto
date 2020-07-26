@@ -328,6 +328,6 @@
    '/usr/lib64/python3.8/multiprocessing/__init__.py',
    'PYMODULE'),
   ('os', '/usr/lib64/python3.8/os.py', 'PYMODULE'),
-  ('_py_abc', '/usr/lib64/python3.8/_py_abc.py', 'PYMODULE'),
   ('tracemalloc', '/usr/lib64/python3.8/tracemalloc.py', 'PYMODULE'),
+  ('_py_abc', '/usr/lib64/python3.8/_py_abc.py', 'PYMODULE'),
   ('stringprep', '/usr/lib64/python3.8/stringprep.py', 'PYMODULE')])
